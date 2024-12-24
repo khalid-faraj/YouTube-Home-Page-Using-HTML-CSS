@@ -3,6 +3,10 @@
 This repository contains the implementation of an **HTML and CSS course project** where we built a responsive clone of YouTube's home page.  
 
 ---
+## 🚀 Live Demo
+[Link to Live Demo](https://khalidibnfaraj.github.io/HTML-CSS-YouTube/) 
+
+---
 
 ## 🌟 Features  
 
