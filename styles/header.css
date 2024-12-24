@@ -186,3 +186,28 @@
     cursor: pointer;
 
 }
+
+@media (max-width: 650px) {
+    .middle-section {
+        margin-left: 10px;
+        margin-right: 0px;
+    }
+
+    .search-button {
+        width: 30px;
+    }
+
+    .youtube-apps-icon {
+       display: none;
+    }
+
+    .voice-search-button , .voice-search-icon {
+        display: none;
+    }
+
+    .right-section {
+        width: 80px;
+        margin-right: 2px;
+    }
+  
+  }
