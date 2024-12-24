@@ -59,15 +59,22 @@
   margin-bottom: 4px;
 }
 
-@media (max-width: 750px) {
+@media (max-width: 650px) {
+  .videos-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (min-width: 651px){
   .videos-grid {
     grid-template-columns: 1fr 1fr;
   }
 }
 
-@media (min-width: 751px) and (max-width: 999px) {
+@media (min-width: 751px){
   .videos-grid {
     grid-template-columns: 1fr 1fr 1fr;
   }
 }
+
 
