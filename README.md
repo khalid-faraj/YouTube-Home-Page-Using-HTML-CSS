@@ -4,7 +4,7 @@ This repository contains the implementation of an **HTML and CSS course project*
 
 ---
 ## 🚀 Live Demo
-[Link to Live Demo](https://khalidelbeyali.github.io/YouTube-Home-Page-Using-HTML-CSS/) 
+[Link to Live Demo](https://khalid-faraj.github.io/YouTube-Home-Page-Using-HTML-CSS/) 
 
 ---
 
